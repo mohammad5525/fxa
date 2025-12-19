@@ -86,7 +86,7 @@
     "email-addresses": "5.0.0",
     "emittery": "^0.13.1",
     "fxa-customs-server": "workspace:*",
-    "fxa-geodb": "workspace:*",
+    "fxa-geodb": "1.0.4",
     "fxa-shared": "workspace:*",
     "google-auth-library": "^9.14.0",
     "googleapis": "^144.0.0",
