@@ -47,7 +47,7 @@
     "fxa-auth-client": "workspace:*",
     "fxa-auth-server": "workspace:*",
     "fxa-profile-server": "workspace:*",
-    "fxa-shared": "workspace:*",
+    "fxa-shared": "1.0.1",
     "graphql-parse-resolve-info": "^4.13.0",
     "graphql-query-complexity": "^1.0.0",
     "helmet": "^8.0.0",
